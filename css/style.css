@@ -5,6 +5,17 @@
 
 /*End of font*/
 
+#custom_error_page {
+    text-align: center;
+    font-family: ProximaNovaFont;
+}
+
+#error_return_to_main {
+    text-decoration: none;
+}
+
+/*end of 404.html*/
+
 .topnav {
     background-color: transparent;
     overflow: hidden;
